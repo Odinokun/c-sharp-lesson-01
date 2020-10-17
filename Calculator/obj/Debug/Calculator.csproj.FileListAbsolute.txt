@@ -1,0 +1,7 @@
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\bin\Debug\Calculator.exe.config
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\bin\Debug\Calculator.exe
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\bin\Debug\Calculator.pdb
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\obj\Debug\Calculator.exe
+D:\Dropbox\_currently_works\c#\C_sharp_session_1\Calculator\obj\Debug\Calculator.pdb

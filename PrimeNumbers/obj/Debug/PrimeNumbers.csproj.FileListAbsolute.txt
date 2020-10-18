@@ -1,0 +1,7 @@
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Fibonacci\obj\Debug\Fibonacci.pdb

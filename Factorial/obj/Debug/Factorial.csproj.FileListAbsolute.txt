@@ -1,0 +1,7 @@
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\bin\Debug\Factorial.exe.config
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\bin\Debug\Factorial.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\bin\Debug\Factorial.pdb
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\obj\Debug\Factorial.exe
+D:\Dropbox\_currently_works\c#\c-sharp-lesson-01\Factorial\obj\Debug\Factorial.pdb

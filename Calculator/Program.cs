@@ -31,39 +31,42 @@ namespace calculator
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите первое значение");
-            double a = double.Parse(Console.ReadLine());
-
-            Console.WriteLine("Введите оператор");
-            string oper = Console.ReadLine();
-
-            Console.WriteLine("Введите второе значение");
-            double b = double.Parse(Console.ReadLine());
-
-            switch (oper)
+            while (true)
             {
-                case "+":
-                    Console.WriteLine("Сумма = " + Sum(a, b));
-                    break;
-                case "-":
-                    Console.WriteLine("Разница = " + Minus(a, b));
-                    break;
-                case "*":
-                    Console.WriteLine("Произведение = " + Mult(a, b));
-                    break;
-                case "/":
-                    if (b == 0)
-                    {
-                        Console.WriteLine("Делить на ноль нельзя");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Частное = " + Division(a, b));
-                    }
-                    break;
-                default:
-                    Console.WriteLine("Введите корректные значения.");
-                    break;
+                Console.Clear();
+
+                Console.WriteLine("Введите первое значение");
+                double a = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Введите второе значение");
+                double b = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Введите оператор: '+', '-', '*' или '/'");
+                string action = Console.ReadLine();
+
+                switch (action)
+                {
+                    case "+":
+                        Console.WriteLine("Сумма = " + Sum(a, b));
+                        break;
+                    case "-":
+                        Console.WriteLine("Разница = " + Minus(a, b));
+                        break;
+                    case "*":
+                        Console.WriteLine("Произведение = " + Mult(a, b));
+                        break;
+                    case "/":
+                        if (b == 0)
+                            Console.WriteLine("Делить на ноль нельзя");
+                        else
+                            Console.WriteLine("Частное = " + Division(a, b));
+                        break;
+                    default:
+                        Console.WriteLine("Введите корректное значение оператора.");
+                        break;
+                }
+
+                Console.ReadLine();
             }
         }
     }

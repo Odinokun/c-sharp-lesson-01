@@ -1,0 +1,6 @@
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\bin\Debug\05-ArrElementIndex.exe.config
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\bin\Debug\05-ArrElementIndex.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\bin\Debug\05-ArrElementIndex.pdb
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\obj\Debug\05-ArrElementIndex.csproj.CoreCompileInputs.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\obj\Debug\05-ArrElementIndex.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\05-ArrElementIndex\obj\Debug\05-ArrElementIndex.pdb

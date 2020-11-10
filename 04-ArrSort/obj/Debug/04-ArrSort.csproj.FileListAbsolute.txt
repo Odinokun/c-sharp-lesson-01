@@ -1,0 +1,6 @@
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\bin\Debug\04-ArrSort.exe.config
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\bin\Debug\04-ArrSort.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\bin\Debug\04-ArrSort.pdb
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\obj\Debug\04-ArrSort.csproj.CoreCompileInputs.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\obj\Debug\04-ArrSort.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\04-ArrSort\obj\Debug\04-ArrSort.pdb

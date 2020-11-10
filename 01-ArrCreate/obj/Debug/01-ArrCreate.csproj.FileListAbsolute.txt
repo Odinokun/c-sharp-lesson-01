@@ -1,0 +1,7 @@
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\bin\Debug\01-ArrCreate.exe.config
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\bin\Debug\01-ArrCreate.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\bin\Debug\01-ArrCreate.pdb
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\obj\Debug\01-ArrCreate.csprojAssemblyReference.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\obj\Debug\01-ArrCreate.csproj.CoreCompileInputs.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\obj\Debug\01-ArrCreate.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\01-ArrCreate\obj\Debug\01-ArrCreate.pdb

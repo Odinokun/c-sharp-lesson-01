@@ -11,9 +11,9 @@ namespace _02_ArrAddElement
 
         static void Insert(ref int[] array, int value, int index)
         {
-            int[] newArray = new int[array.Length + 1];
+            int[] newArray = new int[array.Length + 1]; //Создали новый массив с длиной старого + 1
 
-            newArray[index] = value;
+            newArray[index] = value; //Записали в массив новый элемент
 
             for (int i = 0; i < index; i++) //элементы до вставляемого числа
                 newArray[i] = array[i];
@@ -21,7 +21,7 @@ namespace _02_ArrAddElement
             for (int i = index; i < array.Length; i++) //элементы после вставляемого числа
                 newArray[i + 1] = array[i];
 
-            array = newArray;
+            array = newArray; //Заменили старый массив новым
         }
 
         static void Main(string[] args)
@@ -33,9 +33,7 @@ namespace _02_ArrAddElement
                 Console.Write(testArray[i] + ", ");
             }
 
-            Insert(ref testArray, 777, 3);
-
-            Console.WriteLine();
+            Insert(ref testArray, 777, 3); //массив, число которое вставляем, индекс нового числа
 
             for (int i = 0; i < testArray.Length; i++)
             {

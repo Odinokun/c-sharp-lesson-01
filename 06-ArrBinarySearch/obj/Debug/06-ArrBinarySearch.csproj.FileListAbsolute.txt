@@ -1,0 +1,7 @@
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\bin\Debug\06-ArrBinarySearch.exe.config
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\bin\Debug\06-ArrBinarySearch.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\bin\Debug\06-ArrBinarySearch.pdb
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\obj\Debug\06-ArrBinarySearch.csprojAssemblyReference.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\obj\Debug\06-ArrBinarySearch.csproj.CoreCompileInputs.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\obj\Debug\06-ArrBinarySearch.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\06-ArrBinarySearch\obj\Debug\06-ArrBinarySearch.pdb

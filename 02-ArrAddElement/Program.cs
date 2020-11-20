@@ -8,20 +8,40 @@ namespace _02_ArrAddElement
 {
     class Program
     {
+
+        static void Insert(ref int[] array, int value, int index)
+        {
+            int[] newArray = new int[array.Length + 1];
+
+            newArray[index] = value;
+
+            for (int i = 0; i < index; i++) //элементы до вставляемого числа
+                newArray[i] = array[i];
+
+            for (int i = index; i < array.Length; i++) //элементы после вставляемого числа
+                newArray[i + 1] = array[i];
+
+            array = newArray;
+        }
+
         static void Main(string[] args)
         {
-            //int[] testArr = { 45, 10, 55, 1, 87, 23 };
+            int[] testArray = { 45, 10, 55, 1, 87, 23 };
 
-            //Console.Write("Введите цифру которую нужно добавить в массив:\t");
+            for (int i = 0; i < testArray.Length; i++)
+            {
+                Console.Write(testArray[i] + ", ");
+            }
 
-            //int newElement = int.Parse(Console.ReadLine());
+            Insert(ref testArray, 777, 3);
 
-            //testArr[testArr.Length] = newElement;
+            Console.WriteLine();
 
-            //for (int i = 0; i < testArr.Length; i++)
-            //{
-            //    Console.WriteLine(testArr[i]);
-            //}
+            for (int i = 0; i < testArray.Length; i++)
+            {
+                Console.Write(testArray[i] + ", ");
+            }
+
         }
     }
 }

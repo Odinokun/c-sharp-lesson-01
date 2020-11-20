@@ -1,0 +1,7 @@
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\bin\Debug\02-ArrAddElement.exe.config
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\bin\Debug\02-ArrAddElement.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\bin\Debug\02-ArrAddElement.pdb
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\obj\Debug\02-ArrAddElement.csprojAssemblyReference.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\obj\Debug\02-ArrAddElement.csproj.CoreCompileInputs.cache
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\obj\Debug\02-ArrAddElement.exe
+D:\Dropbox\work\learn-projects\c#\c-sharp-lesson-01\02-ArrAddElement\obj\Debug\02-ArrAddElement.pdb

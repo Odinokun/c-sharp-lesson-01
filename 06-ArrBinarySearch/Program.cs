@@ -24,41 +24,6 @@ namespace _06_ArrBinarySearch
             }
         }
 
-        //static int BinarySearch(int[] array, int searchValue, int minValue, int maxValue)
-        //{
-        //    SortArray(array); //сортируем массив 
-
-        //    if (searchValue > maxValue || searchValue < minValue)
-        //    {
-        //        Console.WriteLine("Искомого значения нет в массиве");
-
-        //        return -1;
-        //    }
-
-        //    int middleValue = (minValue + maxValue) / 2; //делим массив пополам
-        //    int arrMiddleValue = array[middleValue]; //узнаем значение среднего элемента
-
-        //    if (arrMiddleValue == searchValue) //если значение среднего элемента = искомому числу
-        //    {
-        //        Console.WriteLine("arrMiddleValue = " + arrMiddleValue);
-        //        return arrMiddleValue;
-        //    } else
-        //    {
-        //        if (middleValue > searchValue)
-        //        {
-        //            ищем в левой половине, рекурсивно вызывая функцию
-        //            return BinarySearch(array, searchValue, minValue, middleValue - 1);
-        //        }
-        //        else
-        //        {
-        //            ищем в правой половине, рекурсивно вызывая функцию
-        //            return BinarySearch(array, searchValue, middleValue + 1, maxValue);
-        //        }
-        //    }
-
-
-        //}
-
         static int BinarySearch(int[] array, int key)
         {
             SortArray(array); //сортируем массив
@@ -68,22 +33,23 @@ namespace _06_ArrBinarySearch
 
             while (minNum <= maxNum)
             {
-                int mid = (minNum + maxNum) / 2;
+                int middleVal = (minNum + maxNum) / 2; //среднее значение
 
-                if (key == array[mid])
+                if (key == array[middleVal])
                 {
-                    Console.WriteLine("result = " + array[mid]);
-                    return ++mid;
+                    Console.WriteLine("result = " + array[middleVal]);
+                    return ++middleVal;
                 }
-                else if (key < array[mid])
+                else if (key < array[middleVal])
                 {
-                    maxNum = mid - 1;
+                    maxNum = middleVal - 1;
                 }
                 else
                 {
-                    minNum = mid + 1;
+                    minNum = middleVal + 1;
                 }
             }
+
             Console.WriteLine("Number don`t found");
             return -1;
         }
@@ -96,7 +62,6 @@ namespace _06_ArrBinarySearch
             int searchValue = int.Parse(Console.ReadLine());
 
             BinarySearch(testArr, searchValue);
-            //BinarySearch(testArr, searchValue, 0, testArr.Length - 1);
         }
     }
 }
